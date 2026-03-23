@@ -143,4 +143,8 @@ grounding/config/configs
 grounding/version.py
 
 vis/
-tmp/
+tmp/groundingdino_swint_ogc.pth
+weights/
+RoCoLe_Dataset/
+*.jpg
+__pycache__/
